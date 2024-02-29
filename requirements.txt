@@ -1,0 +1,6 @@
+pyaudio
+librosa
+wave
+PyQt5
+scikit-learn
+numpy
